@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="76461c921fd953874545c28924c497a5" category="doc">docs.netapp.com 사이트 정보</block>
+  <block id="55ff05b2fa7e1012dea362f024c523d4" category="video-title">사이트 투어</block>
+  <block id="f24f9b19509f19811927c2c5108eb69f" category="example-title">스크립트</block>
+  <block id="001451b8eac2d5ba56f77c33e6058082" category="list-text">&amp;#91;0:01 &amp;#93;</block>
+  <block id="4ade6453893cfbe2522908af64833211" category="list-text">안녕. docs.netapp.com 팀의 Ben입니다. 이 비디오에서는 콘텐츠 시청 환경을 최대한 활용할 수 있도록 docs.netapp.com 에서 사용할 수 있는 기능과 특징에 대해 살펴봅니다.</block>
+  <block id="0563c9ce91e1c11d6ad29a8969b5f33a" category="list-text">&amp;#91;0:12 &amp;#93;</block>
+  <block id="0e211f38bb42111667c024142b66f04f" category="list-text">먼저 원하는 콘텐츠를 찾아 보겠습니다. 문서 사이트를 입력한 후에는 사이트의 왼쪽을 사용하여 탐색할 수 있습니다.</block>
+  <block id="8f93d656e679ff035d090620e75b413c" category="list-text">&amp;#91;0:20 &amp;#93;</block>
+  <block id="8dccc52d59eeb736d56dd1b6b44802c9" category="list-text">여러 버전의 문서를 사용할 수 있는 경우 사용 중인 제품 버전에 대한 문서를 선택할 수 있습니다.</block>
+  <block id="aa34fdc7e388719caf41006108441b71" category="list-text">&amp;#91;0:28 &amp;#93;</block>
+  <block id="dd7e3c5a91863520509b8bd47b5fb184" category="list-text">검색 상자를 사용하여 문서 사이트 내의 콘텐츠를 찾습니다. 예를 들어, 볼륨 암호화의 작동 방식을 익히고 싶습니다.</block>
+  <block id="600e453e197e97d216bb3d993a8a0fb0" category="list-text">&amp;#91;0:36 &amp;#93;</block>
+  <block id="8e04744bf4ce3a99c048afd6dcc9f44b" category="list-text">문서를 찾아보려면 목차를 사용할 수 있습니다. 목차는 제품 시작 및 사용과 같은 논리적 그룹으로 구성되어 있습니다.</block>
+  <block id="df50a755abbfca8d747a3b88f08ae781" category="list-text">&amp;#91;0:45 &amp;#93;</block>
+  <block id="154b5fdb7571773817017921e46ae33d" category="list-text">다른 문서 사이트로 이동하려면 Breadcrumb를 사용하여 docs.netapp.com 주위를 탐색할 수 있습니다.</block>
+  <block id="3b0992758991e1911574d554d3026cb8" category="list-text">&amp;#91;0:50 &amp;#93;</block>
+  <block id="31278ba45f6e1d30f6f231f3e5f1a36d" category="list-text">원하는 콘텐츠를 찾으면 몇 가지 주요 기능을 사용하여 콘텐츠와 상호 작용할 수 있습니다.</block>
+  <block id="68c77cb943dbfc9eae43a6815a972242" category="list-text">&amp;#91;0:58 &amp;#93;</block>
+  <block id="6cb3e320d779a4a61d2879df5bd84e9f" category="list-text">대부분의 문서 사이트는 여러 언어로 제공되므로 기본 설정 언어로 문서를 읽을 수 있습니다.</block>
+  <block id="3bad7aa8d678bd594b1538b0dd2b86b3" category="list-text">&amp;#91; 1:05 &amp;#93;</block>
+  <block id="1688c88768c109f923e65f29244c8d09" category="list-text">페이지에 여러 섹션이 있는 경우 "이 페이지에" 링크를 사용하여 원하는 콘텐츠로 바로 이동할 수 있습니다. 또한 이 링크는 페이지에서 현재 위치를 식별하므로 스크롤할 때 따라가는 데 도움이 됩니다.</block>
+  <block id="167973d06e8c4ea7919a95c0c2d227e2" category="list-text">&amp;#91; 1:20 &amp;#93;</block>
+  <block id="731678ea16207e95dd4c230e861e27ce" category="list-text">콘텐츠 자체에 초점을 맞추려면 왼쪽 및 오른쪽 사이드바를 축소할 수 있습니다. 작업을 마치면 탐색 컨트롤을 다시 보려면 해당 컨트롤을 확장합니다.</block>
+  <block id="4541b5b3e42f7185d574faa374d10061" category="list-text">&amp;#91; 1:33 &amp;#93;</block>
+  <block id="bc382af4f7df607310494c6a0db0da6d" category="list-text">문서를 오프라인으로 읽어야 하는 경우 전체 문서 사이트 또는 사이트 내의 개별 섹션의 PDF를 다운로드할 수 있습니다.</block>
+  <block id="66dc9ca0ecb6d1cde3f5e646f3c1cb4e" category="list-text">&amp;#91; 1:41 &amp;#93;</block>
+  <block id="11a4aef0f88e6d42f746f1e3807e1f0e" category="list-text">NetApp 문서는 오픈 소스이며 GitHub 계정을 사용하여 커뮤니티 참여를 허용하도록 설계되었습니다. 피드백을 제출하여 문서 업데이트를 요청하거나 직접 콘텐츠를 편집하십시오. 이 내용은 병합 전에 NetApp 콘텐츠 리드에 제출됩니다.</block>
+  <block id="e2e5b6519329388ecd5fe4124aa00f5e" category="list-text">&amp;#91; 1:59 &amp;#93;</block>
+  <block id="cae12efe5fddc5b227738098a513f050" category="list-text">일부 클라우드 서비스의 문서 사이트에는 문서를 특정 클라우드 공급자로 필터링할 수 있는 클라우드 공급자 옵션이 표시될 수 있습니다. 예를 들어 Microsoft Azure를 선택하면 Azure에 적용되는 콘텐츠만 표시됩니다. 다른 클라우드 공급자의 콘텐츠는 표시되지 않습니다.</block>
+  <block id="23e64bc66c69ac4a936da68a4a09fae5" category="list-text">&amp;#91; 2:18 &amp;#93;</block>
+  <block id="de57fe86208320d05e4f48a11939d075" category="list-text">태블릿, 모바일 장치 또는 데스크톱에서 콘텐츠에 액세스할 수 있으므로 Microsoft는 모든 장치에서 문서가 잘 보이도록 반응형 레이아웃을 사용합니다.</block>
+  <block id="fd46289ab456ebe6dc0adaa20d398b2b" category="list-text">&amp;#91; 2:28 &amp;#93;</block>
+  <block id="c7f671298576d5432049913e0335f76f" category="list-text">이제 끝이군요. 이러한 기능을 즐겁게 사용해주시길 바라며 컨텐츠 커뮤니티의 일원이 되어 주셔서 감사합니다.</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">법적 고지 사항은 저작권 선언, 상표, 특허 등에 대한 액세스를 제공합니다.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">저작권</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">상표</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp, NetApp 로고, NetApp 상표 페이지에 나열된 마크는 NetApp Inc.의 상표입니다. 기타 회사 및 제품 이름은 해당 소유자의 상표일 수 있습니다.</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">특허</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">NetApp 소유 특허 목록은 다음 사이트에서 확인할 수 있습니다.</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">개인 정보 보호 정책</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">오픈 소스</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">통지 파일은 NetApp 소프트웨어에 사용된 타사의 저작권 및 라이센스에 대한 정보를 제공합니다.</block>
+  <block id="a415b3159b192a5228f36d0322ee9f1d" category="doc">docs.netapp.com 정보</block>
+  <block id="4fbdf2eea8c892890a6818b154ed392b" category="sidebar">사이트 정보</block>
+</blocks>
