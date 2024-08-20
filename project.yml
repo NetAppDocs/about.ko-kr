@@ -11,5 +11,7 @@ sidebar:
   entries:
   - title: 사이트 정보
     url: "/docs-netapp-com.html"
+  - title: Doc (AI 기반 비서) 정보
+    url: "/doc-gen-ai-assistant.html"
   - title: 법적 고지
     url: "/legal-notices.html"
