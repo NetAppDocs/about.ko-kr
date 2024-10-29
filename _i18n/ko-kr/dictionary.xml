@@ -54,8 +54,6 @@
   <block id="ed014929fa6d1e2a7b2cd335f40c42b6" category="list-text">1:59</block>
   <block id="371c69895ec495bb0ba900238d0dfde0" category="list-text">2:18</block>
   <block id="47a2020d68d5f7d8f999b3bf89a03c1a" category="list-text">2:28</block>
-  <block id="7fdfed3604c999e7ce591c35bf9ca1e3" category="summary">DOC는 docs.netapp.com 에서 NetApp의 세대 AI 기반 보조자입니다. DOC는 NetApp 제품에 대한 질문에 응답하도록 설계되었습니다. 예를 들어, Doc은 NetApp 스토리지 효율성 기능이나 멀티 클라우드 환경에 대한 백업 및 복구 모범 사례에 대한 질문에 응답할 수 있습니다.</block>
-  <block id="47fcebf3dc368732bbe8a2eaabac815e" category="doc">NetApp 생성 AI 도우미 사용 약관</block>
   <block id="7cfd7e3238c2a852ea2f82c03119feb6" category="paragraph">이 베타 버전의 Doc은 오류나 부정확함이 포함될 수 있는 알고리즘으로 생성된 콘텐츠를 생성합니다. 생성된 모든 콘텐츠는 시작점으로만 사용해야 합니다. NetApp의 공식 제품 설명서를 참조하여 항상 Doc의 응답을 확인해야 합니다. 문서 작성 답변에 대한 신뢰는 귀하의 책임이며, NetApp는 문서 작성 응답을 단독으로 사용하여 발생할 수 있는 문제나 어려움에 대해 책임을 지지 않습니다.</block>
   <block id="229eb04083e06f419f9ac494329f957d" category="section-title">조건</block>
   <block id="ed9f05b554b94c74deffa021f0c45818" category="paragraph">Doc을 사용함으로써 귀하는 콘텐츠 및 응답을 생성할 때 다음 규칙 및 규정을 준수하는 데 동의합니다. 본 약관을 준수하지 않을 경우 문서 사용이 차단될 수 있습니다.</block>
@@ -72,7 +70,6 @@
   <block id="d0ce116c1cb9fcbf3cb66f15552cce02" category="paragraph">DOC는 응답을 생성하는 방법에 대한 인사이트를 공유함으로써 질문을 다시 표현할 수 있는 기회를 제공합니다.</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="section-title">제한 사항</block>
   <block id="8c9258587429e6e6438d30caf456ff3a" category="list-text">NetApp 제품에 여러 버전의 문서가 있는 경우, Doc은 답변을 구할 수 있도록 최신 버전만을 참조합니다.</block>
-  <block id="ea0bceffd7bdc127834a19dba6a4000c" category="list-text">베타 기간 동안 Doc은 모든 NetApp 제품에 대한 모든 문서를 참조하지 않습니다. DOC는 답변을 생성하는 데 도움이 되는 ONTAP 및 BlueXP  문서를 포함하지만 이에 국한되지 않는 문서의 하위 집합만을 지칭합니다.</block>
   <block id="4634b38da377884324963fff9cf5bd2f" category="list-text">Doc은 다른 언어로 답변을 제공할 수 있지만 영어 이외의 버전의 NetApp 제품 문서를 읽지 않았습니다. 가능한 한 가장 정확한 정보를 얻기 위해 항상 문서의 응답을 영어로 확인합니다.</block>
   <block id="a0d4cc0f54602c3f247c72f15a7d2dbf" category="section-title">팁</block>
   <block id="55014c9dfa0b6fb12f159a872f65dc2a" category="list-text">DOC는 구체적인 질문을 매우 좋아합니다.</block>
@@ -90,4 +87,14 @@
   <block id="bea4c2c8eb82d05891ddd71584881b56" category="section-title">피드백</block>
   <block id="39f370d8d247a2c0eb7047953bdd4740" category="paragraph">Dell은 Docs를 지속적으로 개선하기 위해 노력하고 있습니다. Doc의 채팅 창에 피드백을 보내 주십시오. Doc의 답변이 정확하고 유용한지 또는 불완전한지 또는 어떤 식으로든 불충분한지 알려주십시오. 문서의 기능 또는 응답과 관련하여 궁금한 점이나 우려사항이 있으면 mailto:ng-doccoments@netapp.com [연락처]로 문의해 주십시오.</block>
   <block id="043395774d0b5e5fa6d8e5cd9b8ce5a2" category="sidebar">Doc (AI 기반 비서) 정보</block>
+  <block id="defcec3c682659592679e8272cd2e9b5" category="summary">DOC는 docs.netapp.com 에서 NetApp의 세대 AI 기반 보조자입니다. DOC는 docs.NetApp.com에 게시된 콘텐츠를 사용하여 NetApp 제품에 대한 질문에 응답하도록 설계되었습니다. 예를 들어, Doc은 NetApp 스토리지 효율성 기능이나 멀티 클라우드 환경에 대한 백업 및 복구 모범 사례에 대한 질문에 응답할 수 있습니다.</block>
+  <block id="3ac8c79d6a5b493f652fb0b8461750c8" category="doc">NetApp 생성 AI 기반 보조 사용 약관</block>
+  <block id="dc7435058c3ed56d99ee34e365ff0b39" category="summary">NetApp 생성 AI 기반 보조 문서 는 docs.NetApp.com 에서 확인할 수 있습니다. DOC는 이 사이트에 게시된 콘텐츠만 사용하여 NetApp 제품에 대한 질문에 답합니다. DOC는 다른 NetApp 사이트 또는 공용 인터넷의 콘텐츠를 사용하여 질문에 답변하지 않습니다.</block>
+  <block id="da83087ce1e5e3d3a31ddadde291fcd7" category="doc">NetApp 생성 AI 기반 보조 개요</block>
+  <block id="402fe4efa3c4cc0d6ede3f565f0bc06d" category="paragraph">NetApp 생성 AI 기반 지원 어시스턴트인 "Doc"은 docs.NetApp.com에서 확인할 수 있습니다. DOC는 이 사이트에 게시된 콘텐츠만 사용하여 NetApp 제품에 대한 질문에 답합니다. DOC는 다른 NetApp 사이트 또는 공용 인터넷의 콘텐츠를 사용하여 질문에 답변하지 않습니다.</block>
+  <block id="74f4a4764082dcf42186f10b47664954" category="list-text">DOC는 docs.NetApp.com에 게시된 콘텐츠만 사용하여 답변을 생성합니다. DOC는 다른 NetApp 웹 사이트에 게시된 콘텐츠에서 답변을 생성하지 않습니다.</block>
+  <block id="9b0e72a3de618b5a1f6d4ebdecc32134" category="list-text">베타 기간 동안 Doc은 모든 NetApp 제품에 대한 모든 문서를 참조하지 않습니다. DOC는 ONTAP, BlueXP , StorageGRID, Keystone 및 SnapCenter 문서를 포함하여(단, 이에 국한되지 않음) 문서의 하위 집합만을 지칭합니다. Doc으로 알 수 없는 정보를 찾고 있다면 mailto:ng-doccoments @NetApp.com [알려 주시기 바랍니다].</block>
+  <block id="44c830e5279537009e37c5f1d7e33426" category="list-text">DOC는 관심 있는 제품에 대해 가정하기 위해 현재 진행 중인 페이지를 참조하지 않습니다. 제품 이름 및 버전을 언급하고 질문을 최대한 구체적으로 적어 주십시오.</block>
+  <block id="ffa82bc3c7eca2bab1fae02c80ab8216" category="sidebar">기능 및 제한 사항</block>
+  <block id="b5b7b6c5b5f08dd62ed2dc52c7a4cfe8" category="sidebar">이용 약관</block>
 </blocks>
