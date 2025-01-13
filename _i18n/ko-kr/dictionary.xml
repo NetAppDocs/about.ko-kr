@@ -59,42 +59,43 @@
   <block id="ed9f05b554b94c74deffa021f0c45818" category="paragraph">Doc을 사용함으로써 귀하는 콘텐츠 및 응답을 생성할 때 다음 규칙 및 규정을 준수하는 데 동의합니다. 본 약관을 준수하지 않을 경우 문서 사용이 차단될 수 있습니다.</block>
   <block id="1492b263677041177b75767d2dbc780b" category="list-text">Doc을 사용하여 유해, 남용, 폭력 또는 기망을 유발할 수 있는 콘텐츠를 제작하려고 하지 마십시오.</block>
   <block id="977674521e01e951ee7b77e735caa1d1" category="list-text">Doc이 의도한 목적이 아닌 대화에서 사용하거나 NetApp 제품에 관한 질문이 아닌 질문에 답변하려고 해서는 안 됩니다.</block>
-  <block id="82ec2cd6fda87713f588da75c3b1d0ed" category="section-title">제공합니다</block>
-  <block id="a8d0ffdd3caa441024af945401c069ea" category="list-text">DOC는 코끼리가 아니지만 상당히 기억이 있습니다.</block>
-  <block id="82ccd5b48bcf83ad98f41b4183b07184" category="paragraph">대부분의 경우 Doc은 여러분이 논의하는 내용을 기억하고 주의를 기울입니다. 문서가 대화를 추적하지 못하면 동일한 채팅 세션에서 새 대화를 시작할 수 있습니다.</block>
-  <block id="bfef452160ef7b86bf242e0d2bdd357c" category="list-text">DOC는 열정적인 독자입니다.</block>
-  <block id="0e355d29fd3887f49661d3802e1ea25a" category="paragraph">우리의 문서가 docs.netapp.com (그리고 많은 일이 발생)에 게시될 때마다, Doc은 읽고 그 응답을 생성하기 위해 그들을 참조 할 수 있습니다. Doc이 얼마나 빠르게 학습하는지는 놀랍습니다.</block>
-  <block id="2a7bcb95eb0d0f227b37fb6ec8680c19" category="list-text">DOC는 상담적입니다.</block>
-  <block id="61f8e1f531f123a4df97c1f7782918c8" category="paragraph">DOC는 여러분이 질문한 것 외에 여러분이 질문할 수 있는 질문들에 대한 제안을 제공합니다.</block>
-  <block id="1408f478bd58d496e88744dadf1a02b1" category="list-text">DOC는 의사 소통적입니다.</block>
-  <block id="d0ce116c1cb9fcbf3cb66f15552cce02" category="paragraph">DOC는 응답을 생성하는 방법에 대한 인사이트를 공유함으로써 질문을 다시 표현할 수 있는 기회를 제공합니다.</block>
-  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="section-title">제한 사항</block>
-  <block id="8c9258587429e6e6438d30caf456ff3a" category="list-text">NetApp 제품에 여러 버전의 문서가 있는 경우, Doc은 답변을 구할 수 있도록 최신 버전만을 참조합니다.</block>
-  <block id="4634b38da377884324963fff9cf5bd2f" category="list-text">Doc은 다른 언어로 답변을 제공할 수 있지만 영어 이외의 버전의 NetApp 제품 문서를 읽지 않았습니다. 가능한 한 가장 정확한 정보를 얻기 위해 항상 문서의 응답을 영어로 확인합니다.</block>
-  <block id="a0d4cc0f54602c3f247c72f15a7d2dbf" category="section-title">팁</block>
-  <block id="55014c9dfa0b6fb12f159a872f65dc2a" category="list-text">DOC는 구체적인 질문을 매우 좋아합니다.</block>
-  <block id="39af031d661a8d60c6eb934145542f88" category="paragraph">DOC는 제품 이름, 인터페이스(예: GUI 또는 API) 및 버전을 명시적으로 인용할 때 더 나은 응답을 제공합니다. 예: _ ONTAP 9.8에서 ONTAP 9.12.1로 업그레이드하려면 System Manager에서 어떤 단계를 따라야 합니까? _</block>
-  <block id="ae5ba765952a9c408e513612743afd2d" category="list-text">어떤 일을 하는 방법을 배울 필요가 있습니까?</block>
-  <block id="da5f06b84806d0f43edbcdf8ab9140e3" category="paragraph">Doc에 단계를 포함하도록 요청합니다. _인터넷 없이 BlueXP  커넥터를 설치하려면 어떻게 해야 합니까?_인터넷 없이 BlueXP  커넥터를 설치하려면 어떤 단계를 따라야 합니까? _</block>
-  <block id="1fb87efde9d27c81852aef738416fea5" category="list-text">간단한 질문을 합니다.</block>
-  <block id="56a8772e302d94cfd17246eecc01b02a" category="paragraph">복잡한 질문을 해야 하는 경우, 작은 질문으로 나눕니다(이를 체인 질문이라고도 함). 채팅 세션 중에 Doc은 주의를 기울이고 여러분이 질문한 사항을 기억합니다.</block>
-  <block id="546f372fd0732757db387209bc7e5e4e" category="paragraph">Doc_BlueXP 에서 랜섬웨어 방지 및 백업 일정을 어떻게 구성합니까?_try_BlueXP 에서 랜섬웨어 보호를 구성하는 단계는 무엇입니까? _ 및 _ BlueXP 에서 백업 일정을 구성하는 단계는 무엇입니까? _</block>
-  <block id="f2e25aa9036d6798312b7ccb5891aa13" category="list-text">따옴표를 사용하여 Doc에서 오해할 수 있는 여러 단어로 된 구에 주의를 기울이도록 할 시기를 지정합니다.</block>
-  <block id="c2831909c9ecc0befad064d2ee8566ff" category="paragraph">예를 들어, Doc_ONTAP에서 스토리지 효율성은 어떻게 계산됩니까?_라고 물을 경우 이는 관련이 없는 두 단어로 스토리지 및 효율성에 대해 질문한다고 생각할 수 있습니다. Doc이 (개념)스토리지 효율성에 대해 질문한다는 것을 이해하고 있음을 뜻하도록 해당 문구를 따옴표로 묶습니다. _ ONTAP에서 "스토리지 효율성"은 어떻게 계산됩니까? _</block>
-  <block id="af86dd4b829e0feb137a94ed8e9ec7eb" category="paragraph">당신은 사람과 대화를 하고 있다면, 당신은 아마 문구를 강조하거나, 아마도 공표 또는 어떤 방식으로 구별을 명확하게 만드는 제스처를 사용할 수 있습니다. Double-quotes는 Doc이 말하는 내용을 이해하는 데 도움이 되는 제스처라고 생각합니다.</block>
-  <block id="e423d49b947f8deb0f39c1fc9aa13006" category="list-text">이에 대한 답변을 통해 Doc은 어떻게 대응이 이루어졌는지에 대한 통찰력을 제공합니다. 호기심을 가지십시오.</block>
-  <block id="4ad038ec67eddd3dd262b131a2914027" category="paragraph">질문을 할 때 다른 패턴과 접근법을 시도해 보십시오. 원하는 결과를 얻지 못한 경우 질문을 바꿔 보세요.</block>
   <block id="bea4c2c8eb82d05891ddd71584881b56" category="section-title">피드백</block>
   <block id="043395774d0b5e5fa6d8e5cd9b8ce5a2" category="sidebar">Doc (AI 기반 비서) 정보</block>
   <block id="defcec3c682659592679e8272cd2e9b5" category="summary">DOC는 docs.netapp.com 에서 NetApp의 세대 AI 기반 보조자입니다. DOC는 docs.NetApp.com에 게시된 콘텐츠를 사용하여 NetApp 제품에 대한 질문에 응답하도록 설계되었습니다. 예를 들어, Doc은 NetApp 스토리지 효율성 기능이나 멀티 클라우드 환경에 대한 백업 및 복구 모범 사례에 대한 질문에 응답할 수 있습니다.</block>
   <block id="3ac8c79d6a5b493f652fb0b8461750c8" category="doc">NetApp 생성 AI 기반 보조 사용 약관</block>
-  <block id="dc7435058c3ed56d99ee34e365ff0b39" category="summary">NetApp 생성 AI 기반 보조 문서 는 docs.NetApp.com 에서 확인할 수 있습니다. DOC는 이 사이트에 게시된 콘텐츠만 사용하여 NetApp 제품에 대한 질문에 답합니다. DOC는 다른 NetApp 사이트 또는 공용 인터넷의 콘텐츠를 사용하여 질문에 답변하지 않습니다.</block>
   <block id="da83087ce1e5e3d3a31ddadde291fcd7" category="doc">NetApp 생성 AI 기반 보조 개요</block>
-  <block id="402fe4efa3c4cc0d6ede3f565f0bc06d" category="paragraph">NetApp 생성 AI 기반 지원 어시스턴트인 "Doc"은 docs.NetApp.com에서 확인할 수 있습니다. DOC는 이 사이트에 게시된 콘텐츠만 사용하여 NetApp 제품에 대한 질문에 답합니다. DOC는 다른 NetApp 사이트 또는 공용 인터넷의 콘텐츠를 사용하여 질문에 답변하지 않습니다.</block>
-  <block id="74f4a4764082dcf42186f10b47664954" category="list-text">DOC는 docs.NetApp.com에 게시된 콘텐츠만 사용하여 답변을 생성합니다. DOC는 다른 NetApp 웹 사이트에 게시된 콘텐츠에서 답변을 생성하지 않습니다.</block>
-  <block id="44c830e5279537009e37c5f1d7e33426" category="list-text">DOC는 관심 있는 제품에 대해 가정하기 위해 현재 진행 중인 페이지를 참조하지 않습니다. 제품 이름 및 버전을 언급하고 질문을 최대한 구체적으로 적어 주십시오.</block>
   <block id="ffa82bc3c7eca2bab1fae02c80ab8216" category="sidebar">기능 및 제한 사항</block>
   <block id="b5b7b6c5b5f08dd62ed2dc52c7a4cfe8" category="sidebar">이용 약관</block>
   <block id="858a13328205a50b4d4ea7a8e790b8b7" category="paragraph">Dell은 Docs를 지속적으로 개선하기 위해 노력하고 있습니다. Doc의 채팅 창에 피드백을 보내 주십시오. Doc의 답변이 정확하고 유용한지 또는 불완전한지 또는 어떤 식으로든 불충분한지 알려주십시오. 문서의 기능 또는 응답과 관련하여 궁금한 점이나 우려사항이 있으면 mailto:ng-doccomments@netapp.com [연락처]로 문의해 주십시오.</block>
-  <block id="9ad4361a0d51af27ebbe2cc42d8b064b" category="list-text">베타 기간 동안 Doc은 모든 NetApp 제품에 대한 모든 문서를 참조하지 않습니다. DOC는 ONTAP, BlueXP , StorageGRID, Keystone 및 SnapCenter 문서를 포함하여(단, 이에 국한되지 않음) 문서의 하위 집합만을 지칭합니다. Doc으로 알 수 없는 정보를 찾고 있다면 mailto:ng-doccomments @NetApp.com [알려 주시기 바랍니다].</block>
+  <block id="0d170dccad1565dabf52d4a404e9f01e" category="summary">DOC는 docs.NetApp.com에서 사용할 수 있는 NetApp AI 도우미입니다. 이 사이트의 콘텐츠만 사용하여 질문에 답합니다. DOC는 다른 NetApp 사이트 또는 공용 인터넷의 콘텐츠를 사용하여 질문에 답변하지 않습니다.</block>
+  <block id="6179d3ef872af4eb960f4c34232845fc" category="paragraph">DOC는 이전 질문에서 응답을 작성하고, 추가 질문을 제안하고, 응답을 생성하는 방법을 설명할 수 있습니다. 따라서 NetApp 설명서를 탐색하는 데 유용한 도구가 됩니다.</block>
+  <block id="78d84dc38711d923fa1dc1351e7e5a90" category="section-title">범위 및 제한 사항</block>
+  <block id="e02e8d81102c18e5ac8688f45881ccb4" category="paragraph">DOC는 docs.NetApp.com에 게시된 특정 콘텐츠를 기반으로 한 질문에만 답할 수 있습니다.</block>
+  <block id="ac9a966db57853c0bb3b03769804fffe" category="admonition">이 베타 단계에서는 Doc이 모든 docs.NetApp.com 콘텐츠에 대해 교육을 받지 않습니다. DOC는 ONTAP, BlueXP , StorageGRID, Keystone 및 SnapCenter 콘텐츠를 포함하되 이에 국한되지 않는 콘텐츠에 대한 질문에 답변할 수 있습니다. Doc에 없는 정보가 필요한 경우 저희에게 알려주십시오.</block>
+  <block id="5cce09c2cd6acff384726d4c5913b10a" category="list-text">제품 버전을 지정하지 않으면 Doc은 최신 게시된 버전을 기반으로 질문에 답합니다. 필요한 경우 질문에서 이전 버전을 지정할 수 있습니다.</block>
+  <block id="ba2e07590de589acb6827cadda0ba814" category="list-text">DOC는 당신이 질문을 할 때 어떤 페이지에 있는지 모른다. 최상의 결과를 얻으려면 제품 이름과 버전을 구체적으로 적어 주십시오.</block>
+  <block id="d3aab3cd74c1c5868499ccc53ebe0a75" category="list-text">DOC는 docs.NetApp.com에서 지원되는 언어로 채팅할 수 있지만 영어 이외의 버전에 대해서는 교육을 받지 않았습니다.</block>
+  <block id="e4a95039ccdfb7b85c839ab71de68d99" category="section-title">양호한 프롬프트 작성</block>
+  <block id="b0d6ece087301f0de0e69fb8d2e2b5ec" category="paragraph">Docs를 가장 잘 사용하려면 다음 팁을 따르십시오.</block>
+  <block id="a7e39a4b3056ffa36b99607ab22c9468" category="list-text">구체적인 질문을 합니다.</block>
+  <block id="dd9caa784c9ca3239781bc659f74ccb8" category="list-text">자세한 질문을 작성하고 제품 이름, 버전 및 인터페이스 유형(GUI, API)을 지정합니다. 예를 들면 다음과 같습니다.</block>
+  <block id="ccf6477a42eb38a386f552adc5eacddd" category="paragraph">ONTAP 9.8에서 ONTAP 9.12.1로 업그레이드하려면 System Manager에서 어떤 단계를 따라야 합니까?</block>
+  <block id="8558282ecc55619316ab757a333f9464" category="list-text">작업을 완료하기 위한 단계를 요청합니다.</block>
+  <block id="8f6d686a8622f503fb23b364e0cf71ab" category="list-text">Doc에게 프로세스를 완료하는 단계를 포함시키도록 요청합니다. "BlueXP  커넥터를 인터넷에 연결하지 않고 설치하려면 어떻게 해야 합니까?"라는 질문 대신 다음을 시도해 보십시오.</block>
+  <block id="3ef101280b587102ce939479558aa055" category="paragraph">인터넷없이 BlueXP  커넥터를 설치하려면 어떤 단계를 따라야 합니까?</block>
+  <block id="275396194b219acfa3d9cda68ae5b93c" category="list-text">복잡한 질문을 덩어리로 나눕니다.</block>
+  <block id="35fec273a859ca1e6628462d78db71c3" category="list-text">복잡한 질문을 작은 질문으로 나눕니다(_chaining_이라고도 함). DOC는 이전 질문을 기억하고 채팅을 계속하면서 보다 복잡한 답변을 작성합니다.</block>
+  <block id="25ef66eb46ca88d1d3a93f83a5769355" category="paragraph">예를 들어, Doc_BlueXP 에서 랜섬웨어 차단 및 백업 일정을 어떻게 구성합니까?_try:</block>
+  <block id="84de75573d217bda8683d66d37460ded" category="paragraph">BlueXP 에서 랜섬웨어 보호를 구성하는 단계는 무엇입니까?</block>
+  <block id="9f6c2280afbfa54b375e1af3ff06c653" category="paragraph">그런 다음 질문:</block>
+  <block id="af21a9a42fc6c57d40376fa86d55441c" category="paragraph">BlueXP 에서 백업 일정을 구성하는 단계는 무엇입니까?</block>
+  <block id="d3badbdbe83ec6535fa70220c14ec37e" category="list-text">따옴표를 사용합니다.</block>
+  <block id="102e31705b2b7aa77cd5895ec984961b" category="list-text">여러 단어로 된 구를 따옴표로 묶습니다. 이를 통해 Doc은 이 문구를 하나의 개념으로 인식할 수 있으며, 이는 인간과의 대화에서 강조하는 방법과 유사합니다.</block>
+  <block id="8ac004a4dacf3f869c93fa6b2f1f058e" category="paragraph">예를 들어, 이 질문에서 _ ONTAP에서 스토리지 효율성을 계산하는 방법은 무엇입니까?_Doc은 _ 스토리지 _ 및 _ 효율성 _ 에 대해 관련 없는 두 단어로 물어볼 것입니다. 대신 다음을 시도해 보십시오.</block>
+  <block id="d8b6f28e3584b30ddf16994ca1102070" category="paragraph">ONTAP에서 "스토리지 효율성"을 어떻게 계산합니까?</block>
+  <block id="bd6aea123f1cd8db72d8427cac215429" category="list-text">Doc이 어떻게 응답했는지 검토합니다.</block>
+  <block id="afae99cf2edf2a9320bf47938ace301b" category="list-text">이에 대한 답변을 통해 Doc은 어떻게 대응이 이루어졌는지에 대한 통찰력을 제공합니다. 이렇게 하면 원하는 결과를 얻기 위해 질문을 구체화하는 방법에 대한 아이디어를 얻을 수 있습니다.</block>
+  <block id="e10d7022bccbf44b070810cd5909184e" category="list-text">채팅 기록을 지웁니다</block>
+  <block id="3508984ba8ee3276c733e57293128c50" category="list-text">주제를 변경하려면 새로 시작 시 채팅을 지웁니다. Doc은 이전 질문을 기억하기 때문에 주제를 변경하면 예기치 않은 결과가 발생할 수 있습니다.</block>
+  <block id="5ac85d6acb2d0e353a29dbf8a61e4a47" category="paragraph">귀하의 피드백은 Doc의 대응 방식을 개선하는 데 도움이 됩니다. Doc 채팅 윈도우의 피드백 도구를 사용하여 답변이 정확하고 유용한지 또는 개선이 필요한지 알려주세요. 궁금한 점이나 의견이 있으면 mailto:ng-doccomments @NetApp.com [연락처] 도 문의해 주십시오.</block>
 </blocks>
