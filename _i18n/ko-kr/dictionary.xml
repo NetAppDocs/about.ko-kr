@@ -72,8 +72,6 @@
   <block id="78d84dc38711d923fa1dc1351e7e5a90" category="section-title">범위 및 제한 사항</block>
   <block id="e02e8d81102c18e5ac8688f45881ccb4" category="paragraph">DOC는 docs.NetApp.com에 게시된 특정 콘텐츠를 기반으로 한 질문에만 답할 수 있습니다.</block>
   <block id="ac9a966db57853c0bb3b03769804fffe" category="admonition">이 베타 단계에서는 Doc이 모든 docs.NetApp.com 콘텐츠에 대해 교육을 받지 않습니다. DOC는 ONTAP, BlueXP , StorageGRID, Keystone 및 SnapCenter 콘텐츠를 포함하되 이에 국한되지 않는 콘텐츠에 대한 질문에 답변할 수 있습니다. Doc에 없는 정보가 필요한 경우 저희에게 알려주십시오.</block>
-  <block id="5cce09c2cd6acff384726d4c5913b10a" category="list-text">제품 버전을 지정하지 않으면 Doc은 최신 게시된 버전을 기반으로 질문에 답합니다. 필요한 경우 질문에서 이전 버전을 지정할 수 있습니다.</block>
-  <block id="ba2e07590de589acb6827cadda0ba814" category="list-text">DOC는 당신이 질문을 할 때 어떤 페이지에 있는지 모른다. 최상의 결과를 얻으려면 제품 이름과 버전을 구체적으로 적어 주십시오.</block>
   <block id="d3aab3cd74c1c5868499ccc53ebe0a75" category="list-text">DOC는 docs.NetApp.com에서 지원되는 언어로 채팅할 수 있지만 영어 이외의 버전에 대해서는 교육을 받지 않았습니다.</block>
   <block id="e4a95039ccdfb7b85c839ab71de68d99" category="section-title">양호한 프롬프트 작성</block>
   <block id="b0d6ece087301f0de0e69fb8d2e2b5ec" category="paragraph">Docs를 가장 잘 사용하려면 다음 팁을 따르십시오.</block>
@@ -98,4 +96,6 @@
   <block id="e10d7022bccbf44b070810cd5909184e" category="list-text">채팅 기록을 지웁니다</block>
   <block id="3508984ba8ee3276c733e57293128c50" category="list-text">주제를 변경하려면 새로 시작 시 채팅을 지웁니다. Doc은 이전 질문을 기억하기 때문에 주제를 변경하면 예기치 않은 결과가 발생할 수 있습니다.</block>
   <block id="5ac85d6acb2d0e353a29dbf8a61e4a47" category="paragraph">귀하의 피드백은 Doc의 대응 방식을 개선하는 데 도움이 됩니다. Doc 채팅 윈도우의 피드백 도구를 사용하여 답변이 정확하고 유용한지 또는 개선이 필요한지 알려주세요. 궁금한 점이나 의견이 있으면 mailto:ng-doccomments @NetApp.com [연락처] 도 문의해 주십시오.</block>
+  <block id="430fdc9d9149c8cc43c466b7320e92b9" category="list-text">Doc은 제품의 최신 버전에 대해서만 질문에 답변합니다. 예를 들어, 제품의 1.0 버전과 2.0 버전에 대한 설명서가 있는 경우, Doc은 최신 2.0 설명서만 참조합니다.</block>
+  <block id="9f1b245deb3e474f47cde2de8fa217be" category="list-text">최상의 결과를 얻으려면 제품 이름을 항상 구체적으로 지정하세요. Doc은 질문을 할 때 사용자가 어떤 페이지에 있는지 알고 있지만, 이는 Doc이 답변을 작성할 때 고려하는 여러 요소 중 하나일 뿐입니다.</block>
 </blocks>
