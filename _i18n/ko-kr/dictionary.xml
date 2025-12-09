@@ -54,7 +54,6 @@
   <block id="ed014929fa6d1e2a7b2cd335f40c42b6" category="list-text">1:59</block>
   <block id="371c69895ec495bb0ba900238d0dfde0" category="list-text">2:18</block>
   <block id="47a2020d68d5f7d8f999b3bf89a03c1a" category="list-text">2:28</block>
-  <block id="7cfd7e3238c2a852ea2f82c03119feb6" category="paragraph">이 베타 버전의 Doc은 오류나 부정확함이 포함될 수 있는 알고리즘으로 생성된 콘텐츠를 생성합니다. 생성된 모든 콘텐츠는 시작점으로만 사용해야 합니다. NetApp의 공식 제품 설명서를 참조하여 항상 Doc의 응답을 확인해야 합니다. 문서 작성 답변에 대한 신뢰는 귀하의 책임이며, NetApp는 문서 작성 응답을 단독으로 사용하여 발생할 수 있는 문제나 어려움에 대해 책임을 지지 않습니다.</block>
   <block id="229eb04083e06f419f9ac494329f957d" category="section-title">조건</block>
   <block id="ed9f05b554b94c74deffa021f0c45818" category="paragraph">Doc을 사용함으로써 귀하는 콘텐츠 및 응답을 생성할 때 다음 규칙 및 규정을 준수하는 데 동의합니다. 본 약관을 준수하지 않을 경우 문서 사용이 차단될 수 있습니다.</block>
   <block id="1492b263677041177b75767d2dbc780b" category="list-text">Doc을 사용하여 유해, 남용, 폭력 또는 기망을 유발할 수 있는 콘텐츠를 제작하려고 하지 마십시오.</block>
@@ -91,10 +90,10 @@
   <block id="9f1b245deb3e474f47cde2de8fa217be" category="list-text">최상의 결과를 얻으려면 제품 이름을 항상 구체적으로 지정하세요. Doc은 질문을 할 때 사용자가 어떤 페이지에 있는지 알고 있지만, 이는 Doc이 답변을 작성할 때 고려하는 여러 요소 중 하나일 뿐입니다.</block>
   <block id="01dc3c6efffd9690ac127c076429711d" category="summary">DOC는 docs.netapp.com 에서 NetApp의 세대 AI 기반 보조자입니다. DOC는 docs.NetApp.com에 게시된 콘텐츠를 사용하여 NetApp 제품에 대한 질문에 응답하도록 설계되었습니다.</block>
   <block id="80fa76d524e6703e34b8caffc21c9017" category="list-text">주제를 변경하려면(예: 다른 제품에 대해 문의하려는 경우) 채팅 기록을 삭제하고 새 세션을 시작하세요. 새 주제를 시작하기 전에 채팅 기록을 삭제하지 않으면 부정확한 결과가 나올 수 있습니다.</block>
-  <block id="7a94655c3185c3d5873fcad78666df26" category="admonition">베타 단계에서 Doc은 docs.netapp.com에 게시된 대부분의 콘텐츠를 사용하지만, 모든 콘텐츠를 사용하지는 않습니다.  Doc은 ONTAP, NetApp Console, StorageGRID, E-Series, Keystone 및 SnapCenter 에 대한 모든 문서를 잘 알고 있으며 이를 사용하여 해당 제품에 대한 질문에 답합니다.  반면, Doc은 일부 레거시 제품의 설명서에 익숙하지 않습니다.  예를 들어, Doc은 SnapDrive for UNIX 사용하지 않습니다.  베타 버전 기간 동안 우리는 Doc의 지식을 더욱 다듬기 위해 노력하고 있습니다.  Doc에 없는 정보가 필요하면 mailto:ng-doccomments@netapp.com[으로 알려주세요]으로 보내주세요.</block>
   <block id="bac4ca2c5b0ee617baad4e54ade4b552" category="list-text">Doc에게 프로세스를 완료하는 데 필요한 단계를 포함하도록 요청하세요.  _인터넷 없이 NetApp 콘솔 에이전트를 어떻게 설치합니까?_라고 묻는 대신 다음을 시도해 보세요.</block>
   <block id="69718d2bba1514ce4734afe8fa5fba5e" category="paragraph">인터넷 없이 NetApp 콘솔 에이전트를 설치하려면 어떤 단계를 따라야 합니까?</block>
   <block id="0e3e10ad9a5cb2a1201539ad3b7ea95f" category="paragraph">예를 들어, Doc에게 NetApp 콘솔에서 랜섬웨어 보호 및 백업 일정을 어떻게 구성합니까?_라고 묻는 대신 다음을 시도해 보세요.</block>
   <block id="a4a2ff9e664b60a6bdd6cdbe4fcc1447" category="paragraph">NetApp 콘솔에서 랜섬웨어 보호를 구성하는 단계는 무엇입니까?</block>
   <block id="98d95c2ccd0fa7f85c70c1ac654e2ac2" category="paragraph">NetApp 콘솔에서 백업 일정을 구성하는 단계는 무엇입니까?</block>
+  <block id="c1dd50d72cdca10e54e035173567497f" category="paragraph">Doc은 알고리즘에 의해 생성된 콘텐츠를 생성하며, 여기에는 오류나 부정확한 내용이 포함될 수 있습니다. 생성된 모든 콘텐츠는 시작점으로만 사용해야 합니다. 항상 NetApp의 공식 제품 설명서를 참조하여 Doc의 답변을 확인해야 합니다. Doc에서 생성된 응답에만 의존하는 것은 사용자의 책임이며, NetApp Doc에서 생성된 응답만을 사용하여 발생할 수 있는 문제나 어려움에 대해 책임을 지지 않습니다.</block>
 </blocks>
