@@ -68,7 +68,6 @@
   <block id="858a13328205a50b4d4ea7a8e790b8b7" category="paragraph">Dell은 Docs를 지속적으로 개선하기 위해 노력하고 있습니다. Doc의 채팅 창에 피드백을 보내 주십시오. Doc의 답변이 정확하고 유용한지 또는 불완전한지 또는 어떤 식으로든 불충분한지 알려주십시오. 문서의 기능 또는 응답과 관련하여 궁금한 점이나 우려사항이 있으면 mailto:ng-doccomments@netapp.com [연락처]로 문의해 주십시오.</block>
   <block id="6179d3ef872af4eb960f4c34232845fc" category="paragraph">DOC는 이전 질문에서 응답을 작성하고, 추가 질문을 제안하고, 응답을 생성하는 방법을 설명할 수 있습니다. 따라서 NetApp 설명서를 탐색하는 데 유용한 도구가 됩니다.</block>
   <block id="78d84dc38711d923fa1dc1351e7e5a90" category="section-title">범위 및 제한 사항</block>
-  <block id="e02e8d81102c18e5ac8688f45881ccb4" category="paragraph">DOC는 docs.NetApp.com에 게시된 특정 콘텐츠를 기반으로 한 질문에만 답할 수 있습니다.</block>
   <block id="d3aab3cd74c1c5868499ccc53ebe0a75" category="list-text">DOC는 docs.NetApp.com에서 지원되는 언어로 채팅할 수 있지만 영어 이외의 버전에 대해서는 교육을 받지 않았습니다.</block>
   <block id="e4a95039ccdfb7b85c839ab71de68d99" category="section-title">양호한 프롬프트 작성</block>
   <block id="b0d6ece087301f0de0e69fb8d2e2b5ec" category="paragraph">Docs를 가장 잘 사용하려면 다음 팁을 따르십시오.</block>
@@ -96,4 +95,5 @@
   <block id="a4a2ff9e664b60a6bdd6cdbe4fcc1447" category="paragraph">NetApp 콘솔에서 랜섬웨어 보호를 구성하는 단계는 무엇입니까?</block>
   <block id="98d95c2ccd0fa7f85c70c1ac654e2ac2" category="paragraph">NetApp 콘솔에서 백업 일정을 구성하는 단계는 무엇입니까?</block>
   <block id="c1dd50d72cdca10e54e035173567497f" category="paragraph">Doc은 알고리즘에 의해 생성된 콘텐츠를 생성하며, 여기에는 오류나 부정확한 내용이 포함될 수 있습니다. 생성된 모든 콘텐츠는 시작점으로만 사용해야 합니다. 항상 NetApp의 공식 제품 설명서를 참조하여 Doc의 답변을 확인해야 합니다. Doc에서 생성된 응답에만 의존하는 것은 사용자의 책임이며, NetApp Doc에서 생성된 응답만을 사용하여 발생할 수 있는 문제나 어려움에 대해 책임을 지지 않습니다.</block>
+  <block id="8a5bdbcb5016ac5e4f002667c3de782f" category="paragraph">Doc은 docs.netapp.com에 게시된 콘텐츠에 기반한 질문에만 답변할 수 있습니다.</block>
 </blocks>
