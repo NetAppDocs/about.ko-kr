@@ -1,0 +1,84 @@
+---
+sidebar: sidebar 
+permalink: mcp-developer-reference.html 
+keywords: docs.netapp.com MCP server, Model Context Protocol, MCP endpoint, AI development, NetApp documentation 
+summary: 'docs.netapp.com 모델 컨텍스트 프로토콜(MCP) 서버와 통합하는 개발자를 위한 참조 자료입니다.' 
+---
+= docs.netapp.com MCP 서버 개발자 참조
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+이 참조 자료는 docs.netapp.com 모델 컨텍스트 프로토콜(MCP) 서버를 구현하거나 통합하는 개발자를 위한 정보를 제공합니다.
+
+
+
+[[mcp-endpoint]]
+== MCP 엔드포인트
+
+docs.netapp.com MCP 서버는 표준 MCP 인터페이스를 통해 NetApp 설명서를 제공하는 원격 HTTP 엔드포인트를 갖추고 있습니다. Visual Studio Code의 GitHub Copilot, Claude Desktop, Cursor 및 사용자 지정 Python 에이전트 프레임워크 등의 클라이언트 애플리케이션은 지원되는 MCP 클라이언트를 통해 이 서버에 연결할 수 있습니다.
+
+.HTTP 엔드포인트
+`\https://docs.netapp.com/mcp`
+
+다음 예제 형식은 Visual Studio Code에서  `mcp.json` 파일을 사용하여 MCP 서버를 구성하는 데 사용됩니다. 지원되는 다른 MCP 클라이언트에 대한 자세한 내용은 link:mcp-server-get-started.html["docs.netapp.com MCP 서버 시작하기"]를 참조하십시오.
+
+[source, json]
+----
+{
+  "servers": {
+    "netapp-docs-mcp": {
+      "type": "http",
+      "url": "https://docs.netapp.com/mcp",
+      "headers": {
+        "Ocp-Apim-Subscription-Key": "${input:Ocp-Apim-Subscription-Key}"
+      }
+    }
+  },
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "Ocp-Apim-Subscription-Key",
+      "description": "Enter your access key",
+      "password": true
+    }
+  ]
+}
+----
+
+
+[[tools]]
+== 툴
+
+docs.netapp.com MCP 서버는 문서 검색 및 추출을 위한 간결하고 특화된 툴 세트를 제공합니다. 클라이언트에서 MCP 서버를 호출할 때 툴을 지정할 필요가 없습니다. AI 클라이언트가 쿼리에 따라 적절한 툴을 선택합니다.
+
+현재 서버는 다음과 같은 툴을 제공합니다:
+
+* `netapp_docs_ask`: 검색 강화 생성 워크플로를 사용하여 문서에 기반한 답변을 생성합니다.
+* `netapp_docs_search`: 키워드 및 자연어 쿼리를 사용하여 관련 NetApp 문서 페이지를 검색합니다.
+* `netapp_docs_fetch`: 특정 문서 페이지 또는 문서의 구조화된 콘텐츠를 검색합니다.
+* `health_check`: MCP 서버 가용성을 확인합니다.
+
+
+
+
+[[errors]]
+== 오류
+
+다음 표는 docs.netapp.com MCP 서버에서 반환될 수 있는 일반적인 인증 오류를 보여줍니다.
+
+[cols="1,3"]
+|===
+| 오류 | 설명 
+
+
+| `MISSING_API_KEY` | 구독 키가 제공되지 않았습니다. 
+
+
+| `INVALID_API_KEY` | 제공된 구독 키가 유효하지 않거나 승인되지 않았습니다. 
+|===
