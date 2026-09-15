@@ -14,7 +14,7 @@ summary:
 
 
 [role="lead"]
-AI 개발 환경을 docs.netapp.com의 모델 컨텍스트 프로토콜(MCP) 서버에 연결합니다. MCP 서버를 구성한 후에는 해당 서버를 사용하여 게시된 NetApp 문서에서 검증된 답변을 반환받을 수 있습니다.
+AI 개발 환경을 docs.netapp.com의 모델 컨텍스트 프로토콜(MCP) 서버에 연결합니다. MCP 서버를 구성한 후에는 docs.netapp.com에 게시된 기술 제품 설명서를 기반으로 답변을 반환받을 수 있습니다.
 
 
 
@@ -37,9 +37,9 @@ docs.netapp.com MCP 서버를 구성하기 전에 다음 사항을 확인하십�
 사용 환경에 맞는 설정 옵션을 선택합니다.
 
 * <<Visual Studio Code 설정>>
-* <<Python AI 에이전트 통합>>
 * <<Claude Desktop 구성>>
 * <<커서 구성>>
+* <<Python AI 에이전트 통합>>
 
 
 
@@ -139,27 +139,6 @@ _ONTAP과 Cloud Volumes ONTAP의 차이점은 무엇입니까?_
 
 
 
-[[python-ai-agent-integration]]
-=== Python AI 에이전트 통합
-
-MCP 서버를 직접 호출하는 애플리케이션이나 AI 에이전트를 구축하는 경우 이 옵션을 사용하십시오.
-
-클라이언트가 MCP 엔드포인트에 연결하여 툴을 호출합니다.
-
-[source, python]
-----
-client = MCPClient("https://docs.netapp.com/mcp",
-  headers={
-          "Ocp-Apim-Subscription-Key": "<YOUR_API_KEY>"
-      }
-  )
-response = client.call_tool("netapp_docs_ask", {
-    "question": "What are ONTAP upgrade steps?"
-})
-
-----
-
-
 [[claude-desktop-configuration]]
 === Claude Desktop 구성
 
@@ -222,10 +201,31 @@ NOTE: 파일에 이미 다른 MCP 서버가 구성되어 있는 경우, 기존  
 ----
 
 
+[[python-ai-agent-integration]]
+=== Python AI 에이전트 통합
+
+MCP 서버를 직접 호출하는 애플리케이션이나 AI 에이전트를 구축하는 경우 이 옵션을 사용하십시오.
+
+클라이언트가 MCP 엔드포인트에 연결하여 툴을 호출합니다.
+
+[source, python]
+----
+client = MCPClient("https://docs.netapp.com/mcp",
+  headers={
+          "Ocp-Apim-Subscription-Key": "<YOUR_API_KEY>"
+      }
+  )
+response = client.call_tool("netapp_docs_ask", {
+    "question": "What are ONTAP upgrade steps?"
+})
+
+----
+
+
 [[use-the-docs-netapp-com-mcp-server]]
 == docs.netapp.com MCP 서버 사용
 
-MCP 서버 구성을 완료하면 Visual Studio Code 또는 선택한 클라이언트 인터페이스 내에서 NetApp 기술 문서를 직접 참조할 수 있습니다.
+MCP 서버를 구성한 후에는 원하는 클라이언트 인터페이스 내에서 NetApp 기술 문서를 직접 참조할 수 있습니다.
 
 .이 작업 정보
 * AI 클라이언트는 사용자의 쿼리에 따라 적절한 툴을 선택하여 결과를 제공합니다.
@@ -236,7 +236,7 @@ MCP 서버 구성을 완료하면 Visual Studio Code 또는 선택한 클라이�
 .단계
 . 원하는 MCP 호환 클라이언트에서 채팅을 여세요.
 . 구성된 MCP 서버를 실행하고 NetApp 제품 또는 절차에 대해 명확한 질문을 하십시오.
-. 근거 있는 답변을 검토하십시오.
+. 답변을 검토하세요.
 
 
 .관련 정보
